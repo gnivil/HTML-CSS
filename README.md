@@ -10,7 +10,6 @@ The website must, at the top of every page, have a navigation menu that:
 * Is responsive (using media queries). The nav must have similar behavior as the screenshots "Navigation Menu" section
 
 -----
-
 ## Landing Page
 * Contains an  explanation of the project.
 * Links to each visualizations page
