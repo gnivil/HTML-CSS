@@ -16,7 +16,8 @@ The website must, at the top of every page, have a navigation menu that:
 * Links to each visualizations page
 * Includes a sidebar containing preview images of each plot
 * Clicking an image takes users to that visualization
-![alt text]()
+
+![alt text](\https://github.com/gnivil/HTML-CSS/blob/b5e25aec33c37c0b1f16708946adaef3e1fbd392/Images/landingResize.png)
 
 ```html
 <!DOCTYPE html>
