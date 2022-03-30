@@ -494,7 +494,7 @@ The website must, at the top of every page, have a navigation menu that:
 </html>
 ```
 
-###### Wind
+###### Wind Speed
 ```html
 <!DOCTYPE html>
 <html lang="en-us">
@@ -616,7 +616,7 @@ The website must, at the top of every page, have a navigation menu that:
 ```
 -----
 
-## Comparisons Page
+## Comparison Page
 * Contains all of the visualizations on the same page to easily compare
 * Uses a Bootstrap grid for the visualizations
 * The grid must be two visualizations across on screens medium and larger, and 1 across on extra-small and small screens
